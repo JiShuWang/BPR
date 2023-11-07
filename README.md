@@ -5,16 +5,22 @@ This repository contains the author's implementation in PyTorch of **dynamic adj
 ## Address
 https://ieeexplore.ieee.org/document/9961087
 ## Cite
-J. Wang et al., "BPR: Blockchain-Enabled Efficient and Secure Parking Reservation Framework With Block Size Dynamic Adjustment Method," in IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 3, pp. 3555-3570, March 2023, doi: 10.1109/TITS.2022.3222960.
-## Or
 @ARTICLE{9961087,
+
   author={Wang, Jishu and Zhu, Chao and Miao, Chen and Zhu, Rui and Zhang, Xuan and Tang, Yahui and Huang, Hexiang and Gao, Chen},
+  
   journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  
   title={BPR: Blockchain-Enabled Efficient and Secure Parking Reservation Framework With Block Size Dynamic Adjustment Method}, 
+  
   year={2023},
+  
   volume={24},
+  
   number={3},
+  
   pages={3555-3570},
+  
   doi={10.1109/TITS.2022.3222960}}
 
 ## Dependencies
